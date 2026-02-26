@@ -40,6 +40,7 @@ Setting up local environment is extremely easy and straight forward. Follow the 
 ```bash
   npm install
 ```
+or download npm and install in system
 4. Open the code on VS Code or similar equivalent IDE.
 5. create a .env.local file at the root of the project and add the following:
 ```bash
